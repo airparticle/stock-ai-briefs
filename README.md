@@ -134,13 +134,13 @@ curl "http://localhost:8000/search/apple"
 
 ### Main Dashboard
 Beautiful, clean interface showing key metrics and interactive charts.
-
+<img width="1524" height="819" alt="Image" src="https://github.com/user-attachments/assets/a56dc463-c2c1-46bf-b283-0e7b14cbcdc2" />
 ### AI Analysis
 Smart insights powered by market data analysis and trend detection.
-
+<img width="1540" height="374" alt="Image" src="https://github.com/user-attachments/assets/e079db8e-70c0-4c44-991d-6bf3cfd91283" />
 ### Symbol Search
 Quick and intuitive search for thousands of stocks and ETFs.
-
+<img width="1531" height="125" alt="Image" src="https://github.com/user-attachments/assets/314976ad-79a7-4f41-b59f-319df0dca175" />
 ## Deployment
 
 ### Using Docker
